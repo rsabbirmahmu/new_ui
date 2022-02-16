@@ -1,4 +1,4 @@
-import axios from 'axios';
+/*import axios from 'axios';
 
 const instance = axios.create({
 	baseURL: 'https://api-circleex.herokuapp.com/',
@@ -9,4 +9,4 @@ const instance = axios.create({
 });
 
 // tslint:disable-next-line: no-default-export
-export default instance;
+export default instance;*/
